@@ -2,7 +2,15 @@
 
 # Purpose
 
-Help organize your Apple Watch home screen during development. Instead of several unidentified watch apps without icons, quickly add a placeholder icon to each Xcode project and stay on top of your apps.
+Instantly organize your Apple Watch home screen during development. Instead of several unidentified watch apps without icons, quickly add a placeholder icon to each Xcode project and stay on top of your apps.
+
+### Before
+
+![Before screenshot](https://github.com/xta/WatchAppPlaceholderIcons/raw/master/assets/before.png)
+
+### After (using WatchAppPlaceholderIcons)
+
+![After screenshot](https://github.com/xta/WatchAppPlaceholderIcons/raw/master/assets/after.png)
 
 # Usage
 
